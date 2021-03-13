@@ -1,0 +1,11 @@
+Hello there，If you guys are wondering why it shows error when you upload the code to your board. 
+There are many ways to troubleshoot it!
+
+
+1. Try to see if you chose the right board at the board menu.
+2. First upload the code to your board, then finish your circuit.
+3. Make sure you have the Arduino Playtune Library in your software!
+4. Try uploading again if the code failed to compile
+5. make sure you didn't change any preloaded code.
+
+ that's all i can help! Forgot to mention that my code can work on Beta Version too~ so Enjoy ~ <3<3
